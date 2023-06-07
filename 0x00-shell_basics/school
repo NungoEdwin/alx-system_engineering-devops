@@ -1,0 +1,3 @@
+0 string SCHOOL this is a school file
+!:mime School
+#run file -C -m school to produce school.mgc file//yaani compile '-C' magic file '-m'
